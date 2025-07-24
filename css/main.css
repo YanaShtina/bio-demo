@@ -223,7 +223,7 @@ html, body {
   justify-content: space-between;
 }
 .about__img {
-  background-image: url("/img/section2.jpg");
+  background-image: url("../img/section2.jpg");
   border-radius: 24px;
   width: 250px;
   height: 350px;
@@ -283,14 +283,14 @@ html, body {
   background-size: contain;
 }
 .contacts__social-item._insta {
-  background-image: url("/img/instagram.svg");
+  background-image: url("../img/instagram.svg");
 }
 .contacts__social-item._tel {
-  background-image: url("/img/telegram.svg");
+  background-image: url("../img/telegram.svg");
   margin: 0 24px;
 }
 .contacts__social-item._wapp {
-  background-image: url("/img/whatsapp.svg");
+  background-image: url("../img/whatsapp.svg");
 }
 .contacts__info {
   font-size: 0.8em;
@@ -335,7 +335,7 @@ footer__logo {
   margin-bottom: 32px;
 }
 .for__img {
-  background-image: url("/img/for.jpg");
+  background-image: url("../img/for.jpg");
   border-radius: 24px;
   width: 300px;
   height: 350px;
@@ -450,7 +450,7 @@ footer__logo {
   margin-bottom: 24px;
 }
 .how__img {
-  background-image: url("/img/how.png");
+  background-image: url("../img/how.png");
   border-radius: 24px;
   width: 600px;
   height: 450px;
@@ -492,7 +492,7 @@ footer__logo {
   top: -50px;
   right: 0;
   left: auto;
-  background-image: url("/img/decor-line.png");
+  background-image: url("../img/decor-line.png");
   background-repeat: no-repeat;
   background-size: contain;
   opacity: 0.5;
@@ -547,7 +547,7 @@ footer__logo {
   margin-bottom: 12px;
 }
 .program__decor {
-  background-image: url("/img/decor1.svg");
+  background-image: url("../img/decor1.svg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 100px;
@@ -583,7 +583,7 @@ footer__logo {
   top: 0px;
   width: 15px;
   height: 15px;
-  background-image: url("/img/down-arrow.png");
+  background-image: url("../img/down-arrow.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
